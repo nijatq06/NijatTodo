@@ -91,7 +91,7 @@ body{
   background-image: url("./assets/photo/Group\ 73.png");
 }
 .sort-desc {
-  background-image: url("assets/images/Group 91.svg");
+  background-image: url("./assets/photo/Group\ 90.svg");
   position: relative;
   margin-left: 270px;
   border: 0;
@@ -100,6 +100,9 @@ body{
   margin-bottom: 20px;
   height: 15px;
   width: 25px;
+}
+.sort-desc:hover{
+  background-image: url("./assets/photo/Group\ 91.svg");
 }
 .clearInputButton{
   background-image: url("assets/images/Group 77.svg");
